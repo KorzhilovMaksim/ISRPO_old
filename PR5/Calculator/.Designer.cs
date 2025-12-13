@@ -51,7 +51,7 @@
             this.btnPower = new System.Windows.Forms.Button();
             this.btnRoot = new System.Windows.Forms.Button();
             this.btnLn = new System.Windows.Forms.Button();
-            this.s = new System.Windows.Forms.Button();
+            this.btnAbs = new System.Windows.Forms.Button();
             this.btnSin = new System.Windows.Forms.Button();
             this.btnCos = new System.Windows.Forms.Button();
             this.btnTan = new System.Windows.Forms.Button();
@@ -212,6 +212,7 @@
             this.btnOpenBracket.TabIndex = 0;
             this.btnOpenBracket.Text = "(";
             this.btnOpenBracket.UseVisualStyleBackColor = true;
+            this.btnOpenBracket.Click += new System.EventHandler(this.btnOpenBracket_Click);
             // 
             // btnCloseBracket
             // 
@@ -222,6 +223,7 @@
             this.btnCloseBracket.TabIndex = 0;
             this.btnCloseBracket.Text = ")";
             this.btnCloseBracket.UseVisualStyleBackColor = true;
+            this.btnCloseBracket.Click += new System.EventHandler(this.btnCloseBracket_Click);
             // 
             // txtConsole
             // 
@@ -241,7 +243,7 @@
             this.btnPlus.TabIndex = 0;
             this.btnPlus.Text = "+";
             this.btnPlus.UseVisualStyleBackColor = true;
-            this.btnPlus.Click += new System.EventHandler(this.btnMathoOperation_Click);
+            this.btnPlus.Click += new System.EventHandler(this.btnMathOperation_Click);
             // 
             // btnMinus
             // 
@@ -252,7 +254,7 @@
             this.btnMinus.TabIndex = 0;
             this.btnMinus.Text = "-";
             this.btnMinus.UseVisualStyleBackColor = true;
-            this.btnMinus.Click += new System.EventHandler(this.btnMathoOperation_Click);
+            this.btnMinus.Click += new System.EventHandler(this.btnMathOperation_Click);
             // 
             // btnMult
             // 
@@ -263,7 +265,7 @@
             this.btnMult.TabIndex = 0;
             this.btnMult.Text = "*";
             this.btnMult.UseVisualStyleBackColor = true;
-            this.btnMult.Click += new System.EventHandler(this.btnMathoOperation_Click);
+            this.btnMult.Click += new System.EventHandler(this.btnMathOperation_Click);
             // 
             // btnDivide
             // 
@@ -274,7 +276,7 @@
             this.btnDivide.TabIndex = 0;
             this.btnDivide.Text = "/";
             this.btnDivide.UseVisualStyleBackColor = true;
-            this.btnDivide.Click += new System.EventHandler(this.btnMathoOperation_Click);
+            this.btnDivide.Click += new System.EventHandler(this.btnMathOperation_Click);
             // 
             // btnPower
             // 
@@ -285,7 +287,7 @@
             this.btnPower.TabIndex = 0;
             this.btnPower.Text = "^";
             this.btnPower.UseVisualStyleBackColor = true;
-            this.btnPower.Click += new System.EventHandler(this.btnMathoOperation_Click);
+            this.btnPower.Click += new System.EventHandler(this.btnMathOperation_Click);
             // 
             // btnRoot
             // 
@@ -296,6 +298,7 @@
             this.btnRoot.TabIndex = 0;
             this.btnRoot.Text = "root";
             this.btnRoot.UseVisualStyleBackColor = true;
+            this.btnRoot.Click += new System.EventHandler(this.btnMathFunction_Click);
             // 
             // btnLn
             // 
@@ -306,16 +309,18 @@
             this.btnLn.TabIndex = 0;
             this.btnLn.Text = "ln";
             this.btnLn.UseVisualStyleBackColor = true;
+            this.btnLn.Click += new System.EventHandler(this.btnMathFunction_Click);
             // 
-            // s
+            // btnAbs
             // 
-            this.s.Font = new System.Drawing.Font("Times New Roman", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.s.Location = new System.Drawing.Point(349, 273);
-            this.s.Name = "s";
-            this.s.Size = new System.Drawing.Size(119, 75);
-            this.s.TabIndex = 0;
-            this.s.Text = "Abs";
-            this.s.UseVisualStyleBackColor = true;
+            this.btnAbs.Font = new System.Drawing.Font("Times New Roman", 26.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.btnAbs.Location = new System.Drawing.Point(349, 273);
+            this.btnAbs.Name = "btnAbs";
+            this.btnAbs.Size = new System.Drawing.Size(119, 75);
+            this.btnAbs.TabIndex = 0;
+            this.btnAbs.Text = "Abs";
+            this.btnAbs.UseVisualStyleBackColor = true;
+            this.btnAbs.Click += new System.EventHandler(this.btnMathFunction_Click);
             // 
             // btnSin
             // 
@@ -326,6 +331,7 @@
             this.btnSin.TabIndex = 0;
             this.btnSin.Text = "sin";
             this.btnSin.UseVisualStyleBackColor = true;
+            this.btnSin.Click += new System.EventHandler(this.btnMathFunction_Click);
             // 
             // btnCos
             // 
@@ -336,6 +342,7 @@
             this.btnCos.TabIndex = 0;
             this.btnCos.Text = "cos";
             this.btnCos.UseVisualStyleBackColor = true;
+            this.btnCos.Click += new System.EventHandler(this.btnMathFunction_Click);
             // 
             // btnTan
             // 
@@ -346,6 +353,7 @@
             this.btnTan.TabIndex = 0;
             this.btnTan.Text = "tan";
             this.btnTan.UseVisualStyleBackColor = true;
+            this.btnTan.Click += new System.EventHandler(this.btnMathFunction_Click);
             // 
             // btnCalculate
             // 
@@ -402,7 +410,7 @@
             this.Controls.Add(this.btnDivide);
             this.Controls.Add(this.btnMult);
             this.Controls.Add(this.btnMinus);
-            this.Controls.Add(this.s);
+            this.Controls.Add(this.btnAbs);
             this.Controls.Add(this.btnLn);
             this.Controls.Add(this.btnCalculate);
             this.Controls.Add(this.btnTan);
@@ -447,7 +455,7 @@
         private System.Windows.Forms.Button btnPower;
         private System.Windows.Forms.Button btnRoot;
         private System.Windows.Forms.Button btnLn;
-        private System.Windows.Forms.Button s;
+        private System.Windows.Forms.Button btnAbs;
         private System.Windows.Forms.Button btnSin;
         private System.Windows.Forms.Button btnCos;
         private System.Windows.Forms.Button btnTan;

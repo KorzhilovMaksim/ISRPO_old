@@ -9,3 +9,14 @@ D:\korzhilov\Calculator\obj\Debug\Calculator.exe
 D:\korzhilov\Calculator\obj\Debug\Calculator.pdb
 D:\korzhilov\Calculator\obj\Debug\Calculator.exe.config
 D:\korzhilov\Calculator\obj\Debug\Calculator.MainForm.resources
+D:\maksim\estudio\Матющенко\Практические\ISRPO\PR5\Calculator\bin\Debug\Calculator.exe.config
+D:\maksim\estudio\Матющенко\Практические\ISRPO\PR5\Calculator\bin\Debug\Calculator.exe
+D:\maksim\estudio\Матющенко\Практические\ISRPO\PR5\Calculator\bin\Debug\Calculator.pdb
+D:\maksim\estudio\Матющенко\Практические\ISRPO\PR5\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+D:\maksim\estudio\Матющенко\Практические\ISRPO\PR5\Calculator\obj\Debug\Calculator.exe.config
+D:\maksim\estudio\Матющенко\Практические\ISRPO\PR5\Calculator\obj\Debug\Calculator.MainForm.resources
+D:\maksim\estudio\Матющенко\Практические\ISRPO\PR5\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+D:\maksim\estudio\Матющенко\Практические\ISRPO\PR5\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+D:\maksim\estudio\Матющенко\Практические\ISRPO\PR5\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\maksim\estudio\Матющенко\Практические\ISRPO\PR5\Calculator\obj\Debug\Calculator.exe
+D:\maksim\estudio\Матющенко\Практические\ISRPO\PR5\Calculator\obj\Debug\Calculator.pdb

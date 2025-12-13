@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\korzhilov\\Calculator\\",
+  "WorkspaceRootPath": "D:\\maksim\\estudio\\\u041C\u0430\u0442\u044E\u0449\u0435\u043D\u043A\u043E\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\ISRPO\\PR5\\Calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E020DEB5-9D0C-4BC1-A760-F40D5A6CDE56}|Calculator.csproj|d:\\korzhilov\\calculator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{E020DEB5-9D0C-4BC1-A760-F40D5A6CDE56}|Calculator.csproj|D:\\maksim\\estudio\\\u041C\u0430\u0442\u044E\u0449\u0435\u043D\u043A\u043E\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\ISRPO\\PR5\\Calculator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E020DEB5-9D0C-4BC1-A760-F40D5A6CDE56}|Calculator.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E020DEB5-9D0C-4BC1-A760-F40D5A6CDE56}|Calculator.csproj|d:\\korzhilov\\calculator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{E020DEB5-9D0C-4BC1-A760-F40D5A6CDE56}|Calculator.csproj|d:\\maksim\\estudio\\\u043C\u0430\u0442\u044E\u0449\u0435\u043D\u043A\u043E\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\isrpo\\pr5\\calculator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E020DEB5-9D0C-4BC1-A760-F40D5A6CDE56}|Calculator.csproj|solutionrelative:mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainForm.cs",
-              "DocumentMoniker": "D:\\korzhilov\\Calculator\\MainForm.cs",
+              "DocumentMoniker": "D:\\maksim\\estudio\\\u041C\u0430\u0442\u044E\u0449\u0435\u043D\u043A\u043E\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\ISRPO\\PR5\\Calculator\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "D:\\korzhilov\\Calculator\\MainForm.cs",
+              "ToolTip": "D:\\maksim\\estudio\\\u041C\u0430\u0442\u044E\u0449\u0435\u043D\u043A\u043E\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\ISRPO\\PR5\\Calculator\\MainForm.cs",
               "RelativeToolTip": "MainForm.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAiwHAAAABrAAAAAAAAAA==",
+              "ViewState": "AgIAAKYAAAAAAAAAAADwv8wAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-01T10:17:19.136Z",
               "EditorCaption": ""
@@ -37,9 +37,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\korzhilov\\Calculator\\MainForm.cs",
+              "DocumentMoniker": "D:\\maksim\\estudio\\\u041C\u0430\u0442\u044E\u0449\u0435\u043D\u043A\u043E\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\ISRPO\\PR5\\Calculator\\MainForm.cs",
               "RelativeDocumentMoniker": "MainForm.cs",
-              "ToolTip": "D:\\korzhilov\\Calculator\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "D:\\maksim\\estudio\\\u041C\u0430\u0442\u044E\u0449\u0435\u043D\u043A\u043E\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u0438\u0435\\ISRPO\\PR5\\Calculator\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-01T09:46:46.831Z",
