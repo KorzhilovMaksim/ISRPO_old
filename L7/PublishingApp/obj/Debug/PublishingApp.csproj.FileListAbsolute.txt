@@ -1,0 +1,13 @@
+D:\maksim\progamacion\C#\PublishingApp\bin\Debug\PublishingApp.exe.config
+D:\maksim\progamacion\C#\PublishingApp\bin\Debug\PublishingApp.exe
+D:\maksim\progamacion\C#\PublishingApp\bin\Debug\PublishingApp.pdb
+D:\maksim\progamacion\C#\PublishingApp\obj\Debug\PublishingApp.csproj.AssemblyReference.cache
+D:\maksim\progamacion\C#\PublishingApp\obj\Debug\PublishingApp.FormMain.resources
+D:\maksim\progamacion\C#\PublishingApp\obj\Debug\PublishingApp.Properties.Resources.resources
+D:\maksim\progamacion\C#\PublishingApp\obj\Debug\PublishingApp.csproj.GenerateResource.cache
+D:\maksim\progamacion\C#\PublishingApp\obj\Debug\PublishingApp.csproj.CoreCompileInputs.cache
+D:\maksim\progamacion\C#\PublishingApp\obj\Debug\PublishingApp.exe
+D:\maksim\progamacion\C#\PublishingApp\obj\Debug\PublishingApp.pdb
+D:\maksim\progamacion\C#\PublishingApp\obj\Debug\PublishingApp.exe.config
+D:\maksim\progamacion\C#\PublishingApp\obj\Debug\PublishingApp.FormOrder.resources
+D:\maksim\progamacion\C#\PublishingApp\obj\Debug\PublishingApp.FormReceipt.resources
