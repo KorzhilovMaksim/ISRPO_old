@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36705.20 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConverterValyut", "ConverterValyut.csproj", "{8577E0AC-CE04-4568-A927-C39D08E21189}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8577E0AC-CE04-4568-A927-C39D08E21189}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8577E0AC-CE04-4568-A927-C39D08E21189}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8577E0AC-CE04-4568-A927-C39D08E21189}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8577E0AC-CE04-4568-A927-C39D08E21189}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE693CC8-D0DD-4A76-B41D-F83425B69FF8}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+D:\maksim\progamacion\C#\ConverterValyut\bin\Debug\ConverterValyut.exe.config
+D:\maksim\progamacion\C#\ConverterValyut\bin\Debug\ConverterValyut.exe
+D:\maksim\progamacion\C#\ConverterValyut\bin\Debug\ConverterValyut.pdb
+D:\maksim\progamacion\C#\ConverterValyut\obj\Debug\ConverterValyut.csproj.AssemblyReference.cache
+D:\maksim\progamacion\C#\ConverterValyut\obj\Debug\ConverterValyut.MainForm.resources
+D:\maksim\progamacion\C#\ConverterValyut\obj\Debug\ConverterValyut.Properties.Resources.resources
+D:\maksim\progamacion\C#\ConverterValyut\obj\Debug\ConverterValyut.csproj.GenerateResource.cache
+D:\maksim\progamacion\C#\ConverterValyut\obj\Debug\ConverterValyut.csproj.CoreCompileInputs.cache
+D:\maksim\progamacion\C#\ConverterValyut\obj\Debug\ConverterValyut.exe
+D:\maksim\progamacion\C#\ConverterValyut\obj\Debug\ConverterValyut.pdb
+D:\maksim\progamacion\C#\ConverterValyut\obj\Debug\ConverterValyut.exe.config
